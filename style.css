@@ -43,6 +43,13 @@ nav .title {
         flex-direction: column-reverse;
         justify-content: center;
     }
+
+    .blog-img img{
+        width: 80%;
+    }
+    nav{
+        font-size: 1rem;
+    }
 }
 
 .img-fluid {
@@ -53,9 +60,10 @@ nav .title {
 
 .blog .blog-text {
     padding: 1rem;
-    width: 100%;
+    width: 80%;
     max-width: 400px;
     text-align: justify;
+    
 }
 
 .blog .blog-img {
